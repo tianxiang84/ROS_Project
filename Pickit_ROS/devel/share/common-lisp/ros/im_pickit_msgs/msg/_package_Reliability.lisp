@@ -1,0 +1,12 @@
+(cl:in-package im_pickit_msgs-msg)
+(cl:export '(SCENE_COVERAGE_2D-VAL
+          SCENE_COVERAGE_2D
+          SCENE_COVERAGE_3D-VAL
+          SCENE_COVERAGE_3D
+          MODEL_CONTOUR_COVERAGE_2D-VAL
+          MODEL_CONTOUR_COVERAGE_2D
+          MODEL_SURFACE_COVERAGE_2D-VAL
+          MODEL_SURFACE_COVERAGE_2D
+          MODEL_COVERAGE_3D-VAL
+          MODEL_COVERAGE_3D
+))

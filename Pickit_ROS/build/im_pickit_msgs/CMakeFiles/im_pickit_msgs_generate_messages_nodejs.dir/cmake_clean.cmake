@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/im_pickit_msgs_generate_messages_nodejs"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/StatusInvalid.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/ReliabilityValue.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/RoiStatus.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/PickitState.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/StatusError.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/BoundingBox.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/StatusUnpickable.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/CameraConfig.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/MonitoringEvent.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/SubStatus.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/ObjectModel.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/ColorRangeHSV.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/BeltMotion.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/CalibrationStatus.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/FolderContent.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/ColorRangeRGB.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/Object.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/SnapshotStatus.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/File.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/TransformsInRobotConventions.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/SubfolderContent.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/CameraList.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/CameraState.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/Reliability.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/PickitStatus.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/ObjectArray.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/msg/PoseInRobotConvention.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/srv/CopyCalibration.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/srv/CheckForObjects.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/srv/LoadConfig.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/srv/SaveSnapshot.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/srv/StrArg.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/srv/SaveConfiguration.js"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/gennodejs/ros/im_pickit_msgs/srv/LoadSnapshot.js"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/im_pickit_msgs_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

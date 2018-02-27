@@ -1,0 +1,5 @@
+string    snapshot_name        # name of the snapshot to be saved
+bool      robot_request     # if true this request comes from the robot
+---
+bool      success # indicate successful run of triggered service
+string    message # informational, e.g. for error messages

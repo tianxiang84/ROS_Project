@@ -1,0 +1,8 @@
+prefix=/home/sdrwcs/ROS_Projects/ur_modern_driver_Thomas/devel
+
+Name: ur_modern_driver_Thomas
+Description: Description of ur_modern_driver_Thomas
+Version: 0.0.1
+Cflags: -I/home/sdrwcs/ROS_Projects/ur_modern_driver_Thomas/src/ur_modern_driver_Thomas/include
+Libs: -L/home/sdrwcs/ROS_Projects/ur_modern_driver_Thomas/devel/lib 
+Requires: hardware_interface controller_manager actionlib control_msgs geometry_msgs roscpp sensor_msgs trajectory_msgs ur_msgs

@@ -1,0 +1,6 @@
+# Service message to copy robot camera calibration between two setup files
+string    source_setup_file    # source filename of the setup file in setup_configurations
+string    target_setup_file    # target filename of the setup file in setup_configurations
+---
+bool      success         # indicate successful run of triggered service
+string    message         # informational, e.g. for error messages

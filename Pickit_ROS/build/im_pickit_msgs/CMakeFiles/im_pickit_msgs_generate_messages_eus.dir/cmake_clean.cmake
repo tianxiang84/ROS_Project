@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/im_pickit_msgs_generate_messages_eus"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/StatusInvalid.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/ReliabilityValue.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/RoiStatus.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/PickitState.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/StatusError.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/BoundingBox.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/StatusUnpickable.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/CameraConfig.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/MonitoringEvent.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/SubStatus.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/ObjectModel.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/ColorRangeHSV.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/BeltMotion.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/CalibrationStatus.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/FolderContent.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/ColorRangeRGB.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/Object.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/SnapshotStatus.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/File.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/TransformsInRobotConventions.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/SubfolderContent.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/CameraList.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/CameraState.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/Reliability.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/PickitStatus.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/ObjectArray.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/msg/PoseInRobotConvention.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/srv/CopyCalibration.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/srv/CheckForObjects.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/srv/LoadConfig.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/srv/SaveSnapshot.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/srv/StrArg.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/srv/SaveConfiguration.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/srv/LoadSnapshot.l"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/roseus/ros/im_pickit_msgs/manifest.l"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/im_pickit_msgs_generate_messages_eus.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

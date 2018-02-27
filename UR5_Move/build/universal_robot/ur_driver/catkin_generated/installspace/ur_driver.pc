@@ -1,0 +1,8 @@
+prefix=/home/sdrwcs/ROS_Projects/UR5_Move/install
+
+Name: ur_driver
+Description: Description of ur_driver
+Version: 1.2.1
+Cflags: -I/home/sdrwcs/ROS_Projects/UR5_Move/install/include
+Libs: -L/home/sdrwcs/ROS_Projects/UR5_Move/install/lib 
+Requires: dynamic_reconfigure

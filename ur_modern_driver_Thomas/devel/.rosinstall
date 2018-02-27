@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sdrwcs/ROS_Projects/ur_modern_driver_Thomas/devel/setup.sh

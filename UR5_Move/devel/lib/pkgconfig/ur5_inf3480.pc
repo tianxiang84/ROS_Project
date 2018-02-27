@@ -1,0 +1,8 @@
+prefix=/home/sdrwcs/ROS_Projects/UR5_Move/devel
+
+Name: ur5_inf3480
+Description: Description of ur5_inf3480
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sdrwcs/ROS_Projects/UR5_Move/devel/lib 
+Requires: 

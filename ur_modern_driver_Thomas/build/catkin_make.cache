@@ -1,0 +1,2 @@
+ur_modern_driver_Thomas
+-DCATKIN_DEVEL_PREFIX=/home/sdrwcs/ROS_Projects/ur_modern_driver_Thomas/devel -DCMAKE_INSTALL_PREFIX=/home/sdrwcs/ROS_Projects/ur_modern_driver_Thomas/install -G Unix Makefiles

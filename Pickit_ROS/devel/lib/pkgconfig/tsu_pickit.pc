@@ -1,0 +1,8 @@
+prefix=/home/sdrwcs/ROS_Projects/Pickit_ROS/devel
+
+Name: tsu_pickit
+Description: Description of tsu_pickit
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/lib -ltsu_pickit
+Requires: rospy tf2_ros

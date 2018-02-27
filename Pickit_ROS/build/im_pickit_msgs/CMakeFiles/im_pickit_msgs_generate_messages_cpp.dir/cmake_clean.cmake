@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/im_pickit_msgs_generate_messages_cpp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/StatusInvalid.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/ReliabilityValue.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/RoiStatus.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/PickitState.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/StatusError.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/BoundingBox.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/StatusUnpickable.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/CameraConfig.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/MonitoringEvent.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/SubStatus.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/ObjectModel.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/ColorRangeHSV.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/BeltMotion.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/CalibrationStatus.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/FolderContent.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/ColorRangeRGB.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/Object.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/SnapshotStatus.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/File.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/TransformsInRobotConventions.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/SubfolderContent.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/CameraList.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/CameraState.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/Reliability.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/PickitStatus.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/ObjectArray.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/PoseInRobotConvention.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/CopyCalibration.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/CheckForObjects.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/LoadConfig.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/SaveSnapshot.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/StrArg.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/SaveConfiguration.h"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/include/im_pickit_msgs/LoadSnapshot.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/im_pickit_msgs_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

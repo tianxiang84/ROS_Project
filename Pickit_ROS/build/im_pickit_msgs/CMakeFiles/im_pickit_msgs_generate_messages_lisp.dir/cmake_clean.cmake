@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/im_pickit_msgs_generate_messages_lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/StatusInvalid.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/ReliabilityValue.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/RoiStatus.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/PickitState.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/StatusError.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/BoundingBox.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/StatusUnpickable.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/CameraConfig.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/MonitoringEvent.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/SubStatus.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/ObjectModel.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/ColorRangeHSV.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/BeltMotion.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/CalibrationStatus.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/FolderContent.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/ColorRangeRGB.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/Object.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/SnapshotStatus.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/File.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/TransformsInRobotConventions.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/SubfolderContent.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/CameraList.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/CameraState.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/Reliability.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/PickitStatus.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/ObjectArray.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/msg/PoseInRobotConvention.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/srv/CopyCalibration.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/srv/CheckForObjects.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/srv/LoadConfig.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/srv/SaveSnapshot.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/srv/StrArg.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/srv/SaveConfiguration.lisp"
+  "/home/sdrwcs/ROS_Projects/Pickit_ROS/devel/share/common-lisp/ros/im_pickit_msgs/srv/LoadSnapshot.lisp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/im_pickit_msgs_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

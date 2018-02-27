@@ -1,0 +1,8 @@
+prefix=/home/sdrwcs/ROS_Projects/Pickit_ROS/install
+
+Name: im_pickit_msgs
+Description: Description of im_pickit_msgs
+Version: 0.1.0
+Cflags: -I/home/sdrwcs/ROS_Projects/Pickit_ROS/install/include
+Libs: -L/home/sdrwcs/ROS_Projects/Pickit_ROS/install/lib 
+Requires: message_runtime geometry_msgs std_msgs std_srvs

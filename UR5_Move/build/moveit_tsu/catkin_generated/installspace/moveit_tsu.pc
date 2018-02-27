@@ -1,0 +1,8 @@
+prefix=/home/sdrwcs/ROS_Projects/UR5_Move/install
+
+Name: moveit_tsu
+Description: Description of moveit_tsu
+Version: 0.1.0
+Cflags: -I/usr/include/eigen3
+Libs: -L/home/sdrwcs/ROS_Projects/UR5_Move/install/lib 
+Requires: moveit_core moveit_ros_planning_interface interactive_markers

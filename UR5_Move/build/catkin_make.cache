@@ -1,0 +1,2 @@
+moveit_tsu:moveit_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/sdrwcs/ROS_Projects/UR5_Move/devel -DCMAKE_INSTALL_PREFIX=/home/sdrwcs/ROS_Projects/UR5_Move/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+im_pickit_msgs:tsu_pickit
+-DCATKIN_DEVEL_PREFIX=/home/sdrwcs/ROS_Projects/Pickit_ROS/devel -DCMAKE_INSTALL_PREFIX=/home/sdrwcs/ROS_Projects/Pickit_ROS/install -G Unix Makefiles
